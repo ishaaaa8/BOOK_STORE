@@ -32,8 +32,8 @@ function Banner() {
         </div>
         <div className=" order-1 w-full mt-20 md:w-1/2">
           <img
-            src={banner}
-            className="md:w-[550px] md:h-[460px] md:ml-12"
+            src="https://images.pexels.com/photos/1148399/pexels-photo-1148399.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            className=" md:w-[550px] md:h-[460px] md:ml-12 opacity-95"
             alt=""
           />
         </div>
